@@ -1,0 +1,31 @@
+
+
+body {
+  font-family: 'Roboto';
+  background: #20124a;
+}
+
+h1{
+  text-align: center;
+  color: rgba(255,255,255,0.8);
+}
+.btn {
+     background-color: #EAAA00;
+     border-radius: 5px;
+     color: white;
+     padding: 20px 16px;
+     font-size: 26px;
+     font-family:"Roboto";
+     line-height: 26pt;
+     width: 33.33%;
+     margin-left: 33.33%;
+     margin-right: 33.33%;
+     top: 20px;
+
+
+   }
+
+   /* Darker background on mouse-over */
+   .btn:hover {
+     background-color: #9CAD4D;
+}
